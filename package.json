@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-escompile",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "escompile babel preset for browser",
   "main": "index.js",
   "scripts": {
@@ -32,11 +32,9 @@
     "babel-plugin-syntax-exponentiation-operator": "^6.1.18",
     "babel-plugin-syntax-function-bind": "^6.1.18",
     "babel-plugin-syntax-object-rest-spread": "^6.1.18",
-    "babel-plugin-dedent": "^2.0.0",
     "babel-plugin-transform-react-jsx": "^6.1.18",
     "babel-plugin-transform-strict-mode": "^6.1.18",
     "babel-plugin-transform-async-to-generator": "^6.1.18",
-    "babel-plugin-transform-decorators": "^6.1.18",
     "babel-plugin-transform-exponentiation-operator": "^6.1.18",
     "babel-plugin-transform-function-bind": "^6.1.18",
     "babel-plugin-transform-object-rest-spread": "^6.1.18",
@@ -59,6 +57,7 @@
     "babel-plugin-transform-es2015-block-scoping": "^6.1.18",
     "babel-plugin-transform-es2015-typeof-symbol": "^6.1.18",
     "babel-plugin-transform-es2015-modules-commonjs": "^6.1.20",
-    "babel-plugin-transform-regenerator": "^6.1.18"
+    "babel-plugin-transform-regenerator": "^6.1.18",
+    "babel-plugin-transform-decorators-unofficial": "^1.2.2"
   }
 }

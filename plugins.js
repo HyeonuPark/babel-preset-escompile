@@ -12,14 +12,14 @@ module.exports = {
         'object-rest-spread'
       ]
     },
-    'dedent',
     {
       prefix: 'transform-',
       items: [
         'react-jsx',
         'strict-mode',
         'async-to-generator',
-        'decorators',
+        //'decorators',
+        'decorators-unofficial',
         'exponentiation-operator',
         'function-bind',
         'object-rest-spread',
